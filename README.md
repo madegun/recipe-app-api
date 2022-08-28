@@ -1,2 +1,2 @@
 # recipe-app-api
-Recipe api project using django REST
+following udemy tutorial course Recipe api project using django REST, Docker.
